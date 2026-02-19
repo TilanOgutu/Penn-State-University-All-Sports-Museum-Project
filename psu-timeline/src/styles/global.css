@@ -1,0 +1,154 @@
+/* src/styles/global.css */
+/* Global reset and base styles for the entire application */
+
+/* ============================================================
+   CSS CUSTOM PROPERTIES (Design Tokens)
+   Change these variables to retheme the entire app at once.
+   ============================================================ */
+:root {
+  /* Penn State official brand colors */
+  --psu-navy: #001E44;
+  --psu-navy-dark: #00122a;
+  --psu-navy-mid: #002f6c;
+  --psu-white: #FFFFFF;
+  --psu-gold: #C0974F;        /* Subtle gold accent */
+  --psu-gold-light: #e8c17a;
+  --psu-blue-tint: #0a2d5e;
+
+  /* Neutral tones for cards and UI elements */
+  --surface-1: rgba(255, 255, 255, 0.04);
+  --surface-2: rgba(255, 255, 255, 0.08);
+  --surface-3: rgba(255, 255, 255, 0.14);
+  --border-subtle: rgba(255, 255, 255, 0.10);
+  --border-strong: rgba(192, 151, 79, 0.4);
+
+  /* Typography scale */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Source Sans 3', sans-serif;
+  --font-headline: 'Bebas Neue', Impact, sans-serif;
+
+  /* Spacing */
+  --timeline-height: 120px;   /* Height of the bottom timeline bar */
+
+  /* Animation speeds */
+  --transition-fast: 0.2s ease;
+  --transition-med: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.7s cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Auto-advance interval in milliseconds (how long each card shows in loop mode) */
+  --autoplay-interval: 4000;
+
+  /* Inactivity timeout: how many ms of no interaction before returning to loop */
+  --inactivity-timeout: 12000;
+}
+
+/* ============================================================
+   RESET & BASE
+   ============================================================ */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  overflow: hidden; /* Prevent scrollbars — this is a full-screen display app */
+}
+
+body {
+  background-color: var(--psu-navy-dark);
+  color: var(--psu-white);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* Prevent text selection — this is a kiosk/display interface */
+  user-select: none;
+  cursor: default;
+}
+
+/* ============================================================
+   SCROLLBAR STYLING (for any overflow containers)
+   ============================================================ */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--psu-gold);
+  border-radius: 2px;
+}
+
+/* ============================================================
+   UTILITY ANIMATIONS
+   These keyframes are used throughout the app components.
+   ============================================================ */
+
+/* Fade in from below — used for card entrances */
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Fade in — used for overlay backgrounds */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+/* Slow horizontal pan — used for the background effect */
+@keyframes slowPan {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Gold shimmer — used on the year counter */
+@keyframes shimmer {
+  0%   { opacity: 0.7; }
+  50%  { opacity: 1; }
+  100% { opacity: 0.7; }
+}
+
+/* Pulse ring — used on the active timeline dot */
+@keyframes pulseRing {
+  0%   { transform: translate(-50%, -50%) scale(1);   opacity: 0.8; }
+  100% { transform: translate(-50%, -50%) scale(2.8); opacity: 0; }
+}
+
+/* Loading spinner rotation */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* ============================================================
+   BUTTON HOVER STATES (can't be done with inline styles)
+   ============================================================ */
+button:hover {
+  opacity: 0.85;
+  transform: scale(1.05);
+  transition: all 0.2s ease;
+}
+button:active {
+  transform: scale(0.97);
+}
+[role="button"]:hover {
+  filter: brightness(1.3);
+}
+
+/* Progress bar fill — used for the auto-advance countdown */
+@keyframes progressFill {
+  from { width: 0%; }
+  to   { width: 100%; }
+}

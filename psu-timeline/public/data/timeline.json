@@ -1,0 +1,210 @@
+[
+    {
+    "id": 1,
+    "year": 1886,
+    "sport": "Baseball",
+    "title": "The College Nine",
+    "description": "The College Nine Standing: Halter, Jackson, Rose, Mock, Quigley",
+    "image": null
+    },
+    {
+    "id": 2,
+    "year": 1887,
+    "sport": "Football",
+    "title": "Football Program Founded",
+    "description": "Penn State's football program was established, beginning one of the most storied traditions in college athletics.",
+    "image": null
+    },
+    {
+    "id": 3,
+    "year": 1892,
+    "sport": "Track & Field",
+    "title": "Track & Field Program Founded",
+    "description": "Penn State establishes its Track & Field program, adding to the growing athletic tradition at the college.",
+    "image": null
+    },
+    {
+    "id": 4,
+    "year": 1897,
+    "sport": "Basketball",
+    "title": "Basketball Program Founded",
+    "description": "Penn State's basketball program is established, joining the rapidly growing number of athletic programs at the college.",
+    "image": null
+    },
+    {
+    "id": 5,
+    "year": 1909,
+    "sport": "Wrestling",
+    "title": "Wrestling Program Founded",
+    "description": "Penn State establishes its wrestling program, which would go on to become one of the most decorated in NCAA history.",
+    "image": null
+    },
+    {
+    "id": 6,
+    "year": 1911,
+    "sport": "Soccer",
+    "title": "Soccer Program Founded",
+    "description": "Penn State's soccer program is founded, expanding the university's growing athletic department.",
+    "image": null
+    },
+    {
+    "id": 7,
+    "year": 1911,
+    "sport": "Tennis",
+    "title": "Tennis Program Founded",
+    "description": "Penn State's tennis program begins, adding yet another sport to the university's athletic offerings.",
+    "image": null
+    },
+    {
+    "id": 8,
+    "year": 1912,
+    "sport": "Track & Field",
+    "title": "Track & Field Milestone",
+    "description": "Penn State's Track & Field program reaches a significant milestone in its young history.",
+    "image": null
+    },
+    {
+    "id": 9,
+    "year": 1913,
+    "sport": "Lacrosse",
+    "title": "Lacrosse Program Founded",
+    "description": "Penn State's lacrosse program is established, further broadening the university's athletic scope.",
+    "image": null
+    },
+    {
+    "id": 10,
+    "year": 1919,
+    "sport": "Boxing",
+    "title": "Boxing at Rec Hall",
+    "description": "Boxing at Rec Hall drew large crowds during the 1920s and 1930s, becoming one of the most popular spectator sports on campus.",
+    "image": null
+    },
+    {
+    "id": 11,
+    "year": 1921,
+    "sport": "Golf",
+    "title": "Golf Program Founded",
+    "description": "Penn State's golf program is established, adding another dimension to the university's athletic tradition.",
+    "image": null
+    },
+    {
+    "id": 12,
+    "year": 1922,
+    "sport": "Rifle",
+    "title": "Rifle Program Founded",
+    "description": "Penn State's rifle program begins at the White Building shooting range, establishing a precise athletic tradition.",
+    "image": null
+    },
+    {
+    "id": 13,
+    "year": 1926,
+    "sport": "Fencing",
+    "title": "Fencing Program Founded",
+    "description": "Penn State's fencing program is established, adding an Olympic sport to the university's athletic portfolio.",
+    "image": null
+    },
+    {
+    "id": 14,
+    "year": 1931,
+    "sport": "Gymnastics",
+    "title": "Gymnastics Program Founded",
+    "description": "Penn State's gymnastics program is established under what would become legendary coaching leadership.",
+    "image": null
+    },
+    {
+    "id": 15,
+    "year": 1934,
+    "sport": "Rifle",
+    "title": "Women's Rifle at White Building",
+    "description": "Women's rifle practice at the White Building shooting range — Penn State was ahead of its time in providing athletic opportunities for women.",
+    "image": null
+    },
+    {
+    "id": 16,
+    "year": 1935,
+    "sport": "Cross-Country",
+    "title": "Cross-Country Runners",
+    "description": "Cross-Country runners wind through campus, showcasing the beauty of Penn State's grounds and the endurance of its athletes.",
+    "image": null
+    },
+    {
+    "id": 17,
+    "year": 1936,
+    "sport": "Swim & Diving",
+    "title": "Swimming & Diving Program Founded",
+    "description": "Penn State's Swimming & Diving program is established, adding an aquatic dimension to the university's athletic tradition.",
+    "image": null
+    },
+    {
+    "id": 18,
+    "year": 1947,
+    "sport": "Gymnastics",
+    "title": "Billy Bonsall",
+    "description": "Billy Bonsall shows strength on rings, exemplifying the elite-level gymnastics Penn State had developed under Coach Gene Wettstone.",
+    "image": null
+    },
+    {
+    "id": 19,
+    "year": 1960,
+    "sport": "Wrestling",
+    "title": "Coach Bill Koll",
+    "description": "A light moment with Hall of Fame wrestling coach Bill Koll, who helped cement Penn State's wrestling program as a national powerhouse.",
+    "image": "https://live.staticflickr.com/8002/7603503070_11b8c7908c_w.jpg"
+    },
+    {
+    "id": 20,
+    "year": 1947,
+    "sport": "Gymnastics",
+    "title": "International Gymnastics Meets",
+    "description": "Lion coach Gene Wettstone promoted international meets like this one between the U.S. and Soviet Union at Rec Hall, putting Penn State on the global gymnastics map.",
+    "image": null
+    },
+    {
+    "id": 21,
+    "year": 1974,
+    "sport": "Softball",
+    "title": "Dominant Softball Season",
+    "description": "Lion softballers blasted opponents in 1974, going 10-1 in a dominant season that showcased the power of Penn State's women's athletics.",
+    "image": null
+    },
+    {
+    "id": 22,
+    "year": 1981,
+    "sport": "Hockey",
+    "title": "National Field Hockey Player of the Year",
+    "description": "Leading scorer and 1981 National Field Hockey Player of the Year Candy Finn brings national recognition to Penn State's field hockey program.",
+    "image": null
+    },
+    {
+    "id": 23,
+    "year": 1983,
+    "sport": "Volleyball",
+    "title": "Atlantic 10 Title Streak Begins",
+    "description": "Point... Penn State! Lion women won seven straight Atlantic 10 titles from 1983–90, establishing a dynasty in collegiate volleyball.",
+    "image": null
+    },
+    {
+    "id": 24,
+    "year": 1990,
+    "sport": "Women's Basketball",
+    "title": "Lady Lions Reclaim Atlantic 10",
+    "description": "Lady Lion cagers were all smiles after reclaiming the Atlantic 10 title with an 84-60 win over St. Joseph's — a dominant performance.",
+    "image": "https://assets.isu.pub/document-structure/220318200407-2f648475f4d54a617646f2d264bfc2be/v1/095d38fc0c08b7889c2f73b5ef63019b.jpeg"
+    },
+    {
+    "id": 25,
+    "year": 1996,
+    "sport": "Baseball",
+    "title": "First Big Ten Champions",
+    "description": "Penn State claimed its first Big Ten baseball championship in 1996, a historic milestone for the program since joining the Big Ten Conference.",
+    "image": null
+    },
+    {
+    "id": 26,
+    "year": 1999,
+    "sport": "Wrestling",
+    "title": "NCAA Wrestling Title",
+    "description": "Hail to the victor! Glenn Pritzlaff celebrates his 1999 NCAA Title at 174lbs, adding to Penn State wrestling's storied championship legacy.",
+    "image": null
+    }
+]
