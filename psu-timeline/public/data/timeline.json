@@ -21,7 +21,7 @@
     "sport": "Track & Field",
     "title": "Track & Field Program Founded",
     "description": "Penn State establishes its Track & Field program, adding to the growing athletic tradition at the college.",
-    "image": null
+    "image": "https://assets.isu.pub/document-structure/230215193231-8de2a5b8abdf97a1dc9dcd309f626600/v1/9d6012214d184d13e6e417a2eef07659.jpeg"
     },
     {
     "id": 4,
@@ -29,7 +29,7 @@
     "sport": "Basketball",
     "title": "Basketball Program Founded",
     "description": "Penn State's basketball program is established, joining the rapidly growing number of athletic programs at the college.",
-    "image": null
+    "image": "https://assets.isu.pub/document-structure/221201045149-8cfc97a0bd2069d1180c2d4c81dcbc9f/v1/2a5402ba1f46cc89692fe03f04eea36f.jpeg"
     },
     {
     "id": 5,
@@ -37,7 +37,7 @@
     "sport": "Wrestling",
     "title": "Wrestling Program Founded",
     "description": "Penn State establishes its wrestling program, which would go on to become one of the most decorated in NCAA history.",
-    "image": null
+    "image": "https://d2779tscntxxsw.cloudfront.net/67e3773c0e5ed.png?width=1200&quality=80"
     },
     {
     "id": 6,
@@ -45,7 +45,7 @@
     "sport": "Soccer",
     "title": "Soccer Program Founded",
     "description": "Penn State's soccer program is founded, expanding the university's growing athletic department.",
-    "image": null
+    "image": "2wCEAAkGBxQTEhUTExQWFhUXGBsYGBcYGBoeGhsgHx8gHyAfHxgeICggGiEnGxsaITEhJSkrLi4uHx8zODMtNygtLisBCgoKDg0OGxAQGzImICYtNy0uNSsvLS0wLi0yLS0uKzU1Ly0tLS01NS83Mi01LS8tLS0tLS0tLS0tLS0tLS0tLf"
     },
     {
     "id": 7,
@@ -53,7 +53,7 @@
     "sport": "Tennis",
     "title": "Tennis Program Founded",
     "description": "Penn State's tennis program begins, adding yet another sport to the university's athletic offerings.",
-    "image": null
+    "image": "https://assets.isu.pub/document-structure/230223160453-e4a20948ba23e50ad7112881bc01d175/v1/f78a8a86cf731b0235f2eace425d236e.jpeg"
     },
     {
     "id": 8,
@@ -61,7 +61,7 @@
     "sport": "Track & Field",
     "title": "Track & Field Milestone",
     "description": "Penn State's Track & Field program reaches a significant milestone in its young history.",
-    "image": null
+    "image": "https://gopsusports.com/imgproxy/h2hfafgTr2uKIgn8VE1x7s6kArxqOvH-rcWCCK-X-sM/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyMy8xMi8yMC9FZURVWXdvbWFXN0cxcDBVdno2NHh3bFAzNkRDUkdpWWFSdlJPVTR1LndlYnA.webp"
     },
     {
     "id": 9,
@@ -69,7 +69,7 @@
     "sport": "Lacrosse",
     "title": "Lacrosse Program Founded",
     "description": "Penn State's lacrosse program is established, further broadening the university's athletic scope.",
-    "image": null
+    "image": "https://bloximages.newyork1.vip.townnews.com/psucollegian.com/content/tncms/assets/v3/editorial/d/01/d01415c7-458f-4b91-8bb0-dc2b28fe0b9a/67e0d403c4a66.image.jpg?resize=752%2C500"
     },
     {
     "id": 10,
@@ -77,7 +77,7 @@
     "sport": "Boxing",
     "title": "Boxing at Rec Hall",
     "description": "Boxing at Rec Hall drew large crowds during the 1920s and 1930s, becoming one of the most popular spectator sports on campus.",
-    "image": null
+    "image": "https://pennstateboxing.weebly.com/uploads/5/5/7/6/55762947/1435869614.png"
     },
     {
     "id": 11,
@@ -85,7 +85,7 @@
     "sport": "Golf",
     "title": "Golf Program Founded",
     "description": "Penn State's golf program is established, adding another dimension to the university's athletic tradition.",
-    "image": null
+    "image": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/11500978.jpg?h=6785e864&itok=RWKxFrwA"
     },
     {
     "id": 12,
@@ -93,7 +93,7 @@
     "sport": "Rifle",
     "title": "Rifle Program Founded",
     "description": "Penn State's rifle program begins at the White Building shooting range, establishing a precise athletic tradition.",
-    "image": null
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDlkeVe6upNf6GFb-Ax8h58fIoi4Fr6AuHQ&s"
     },
     {
     "id": 13,
@@ -101,7 +101,7 @@
     "sport": "Fencing",
     "title": "Fencing Program Founded",
     "description": "Penn State's fencing program is established, adding an Olympic sport to the university's athletic portfolio.",
-    "image": null
+    "image": "https://gopsusports.com/imgproxy/8Hn8wbeCFCTajrSeBk0qXVdACCpfGpekDcxJ12_jgwo/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyMy8wNy8xOC9HbmFHM25YdU90dTZaTFJPakhOQmxVWEZtU1dkVk1qT1JGUW40RXpNLmpwZw.jpg"
     },
     {
     "id": 14,
@@ -109,7 +109,7 @@
     "sport": "Gymnastics",
     "title": "Gymnastics Program Founded",
     "description": "Penn State's gymnastics program is established under what would become legendary coaching leadership.",
-    "image": null
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJphJYQVm6-9qmG1DahSu96XodYMQU_r77UA&s"
     },
     {
     "id": 15,
@@ -117,7 +117,7 @@
     "sport": "Rifle",
     "title": "Women's Rifle at White Building",
     "description": "Women's rifle practice at the White Building shooting range — Penn State was ahead of its time in providing athletic opportunities for women.",
-    "image": null
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDlkeVe6upNf6GFb-Ax8h58fIoi4Fr6AuHQ&s"
     },
     {
     "id": 16,
@@ -125,7 +125,7 @@
     "sport": "Cross-Country",
     "title": "Cross-Country Runners",
     "description": "Cross-Country runners wind through campus, showcasing the beauty of Penn State's grounds and the endurance of its athletes.",
-    "image": null
+    "image": "https://gopsusports.com/imgproxy/bEG-I_ZYl2c6MV5eJkcjK_zeUEGeBur6Z1vUfY4H6QE/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyNC8xMC8wNS9GWVh0dFZscEp4ZU5QRWh6bkFlMnlDeHJ3b0oxY2JoNkdkMGxGUEd2LnBuZw.png"
     },
     {
     "id": 17,
@@ -133,7 +133,7 @@
     "sport": "Swim & Diving",
     "title": "Swimming & Diving Program Founded",
     "description": "Penn State's Swimming & Diving program is established, adding an aquatic dimension to the university's athletic tradition.",
-    "image": null
+    "image": "https://psu-gatsby-files-prod.s3.amazonaws.com/s3fs-public/styles/4_3_1500w/public/SDW19_NCAA_Sat_Finals_PSU_Originals075_.jpg?h=2d44e782&itok=_ip3CHqZ"
     },
     {
     "id": 18,
@@ -141,7 +141,7 @@
     "sport": "Gymnastics",
     "title": "Billy Bonsall",
     "description": "Billy Bonsall shows strength on rings, exemplifying the elite-level gymnastics Penn State had developed under Coach Gene Wettstone.",
-    "image": null
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJphJYQVm6-9qmG1DahSu96XodYMQU_r77UA&s"
     },
     {
     "id": 19,
@@ -157,7 +157,7 @@
     "sport": "Gymnastics",
     "title": "International Gymnastics Meets",
     "description": "Lion coach Gene Wettstone promoted international meets like this one between the U.S. and Soviet Union at Rec Hall, putting Penn State on the global gymnastics map.",
-    "image": null
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJphJYQVm6-9qmG1DahSu96XodYMQU_r77UA&s"
     },
     {
     "id": 21,
@@ -165,7 +165,7 @@
     "sport": "Softball",
     "title": "Dominant Softball Season",
     "description": "Lion softballers blasted opponents in 1974, going 10-1 in a dominant season that showcased the power of Penn State's women's athletics.",
-    "image": null
+    "image": "https://gopsusports.com/imgproxy/CnXDQy0He0CzG2aMHK6cG_RcuqJDvi6kcsvCkgW4LyQ/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyNC8wNy8wMy9XMmRqeWRzTzVVVkFWd05lZnh4ZEw4NVlHd2IwcHk4UWNOZzA1OUxaLndlYnA.webp"
     },
     {
     "id": 22,
@@ -173,7 +173,7 @@
     "sport": "Hockey",
     "title": "National Field Hockey Player of the Year",
     "description": "Leading scorer and 1981 National Field Hockey Player of the Year Candy Finn brings national recognition to Penn State's field hockey program.",
-    "image": null
+    "image": "https://images.onwardstate.com/uploads/2019/09/9-29-19-Field-Hockey-Vs-Villanova15-1740x1160.jpg"
     },
     {
     "id": 23,
@@ -181,7 +181,7 @@
     "sport": "Volleyball",
     "title": "Atlantic 10 Title Streak Begins",
     "description": "Point... Penn State! Lion women won seven straight Atlantic 10 titles from 1983–90, establishing a dynasty in collegiate volleyball.",
-    "image": null
+    "image": "https://image.isu.pub/220919163310-396e5cd79634df50ca2f84327d2954e6/jpg/page_1_social_preview.jpg"
     },
     {
     "id": 24,
@@ -197,7 +197,7 @@
     "sport": "Baseball",
     "title": "First Big Ten Champions",
     "description": "Penn State claimed its first Big Ten baseball championship in 1996, a historic milestone for the program since joining the Big Ten Conference.",
-    "image": null
+    "image": "https://gopsusports.com/imgproxy/95uzeJ6k8OlCE24_UWRNzIAFrPm4BA6WNRYnrGei_3g/rs:fit:1980:0:0:0/g:ce:0:0/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2dvcHN1c3BvcnRzLXByb2QvMjAyNi8wMi8xNC9ERnFxaW5nNGNKakNLbTRpSHVTQ1VJeWZ3SGtNUnB4ZlplSHNvTG9ILmpwZw.jpg"
     },
     {
     "id": 26,
@@ -205,6 +205,6 @@
     "sport": "Wrestling",
     "title": "NCAA Wrestling Title",
     "description": "Hail to the victor! Glenn Pritzlaff celebrates his 1999 NCAA Title at 174lbs, adding to Penn State wrestling's storied championship legacy.",
-    "image": null
+    "image": "https://d2779tscntxxsw.cloudfront.net/67e3773c0e5ed.png?width=1200&quality=80"
     }
 ]
